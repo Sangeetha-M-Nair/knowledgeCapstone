@@ -1,0 +1,6 @@
+/* CSS for product images */
+.product-image {
+  width: 100%; /* Set the width to 100% of the parent container */
+  padding-top: 75%; /* Set the aspect ratio (e.g., 4:3) using padding */
+  object-fit: contain; /* Ensure the image covers the container without stretching */
+}
